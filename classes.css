@@ -59,7 +59,7 @@
 
 .rectangle1{
     position: absolute;
-    width: 2000px;
+    width: 745px;
     height: 632px;
     left: 535px;
     top: 0px;
@@ -70,7 +70,7 @@
 
 .rectangle2{
     position: absolute;
-    width: 2000px;
+    width: 405px;
     height: 160px;
     left: 875px;
     top: 552px;
@@ -387,4 +387,194 @@
     align-items: center;
 
     color: rgba(255, 255, 255, 0.2);
+}
+
+.rectangle3{
+    position: absolute;
+    width: 360px;
+    height: 478.67px;
+    top: 1333px;
+    left: 80px;
+    z-index: 1;
+
+    background: #1F2B36;
+}
+
+.rectangle4{
+    position: absolute;
+    width: 360px;
+    height: 478.67px;
+    top: 1333px;
+    left: 460px;
+    z-index: 1;
+
+    background: #1F2B36;
+}
+
+.rectangle5{
+    position: absolute;
+    width: 360px;
+    height: 478.67px;
+    top: 1333px;
+    left: 840px;
+    z-index: 1;
+
+    background: #1F2B36;
+}
+
+.dirtImg{
+    position: absolute;
+    width: 360px;
+    height: 239.34px;
+    left: 80px;
+    top: 1333px;
+    z-index: 2;
+}
+
+.pilesImg{
+    position: absolute;
+    width: 360px;
+    height: 239.34px;
+    left: 460px;
+    top: 1333px;
+    z-index: 2;
+}
+
+.technicsImg{
+    position: absolute;
+    width: 360px;
+    height: 239.34px;
+    left: 840px;
+    top: 1333px;
+    z-index: 2;
+}
+
+.servicesTitle{
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.servicesDirt{
+    position: absolute;
+    width: 234px;
+    height: 23.93px;
+    left: 143px;
+    top: 1601.26px;
+    z-index: 2;
+}
+
+.servicesPiles{
+    position: absolute;
+    width: 216px;
+    height: 23.93px;
+    left: 532px;
+    top: 1601.26px;
+    z-index: 2;
+}
+
+.servicesTech{
+    position: absolute;
+    width: 330px;
+    height: 23.93px;
+    left: 855px;
+    top: 1601.26px;
+    z-index: 2;
+}
+
+
+.subline3{
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    left: 210px;
+    top: 1655.11px;
+    z-index: 2;
+
+    border: 1px solid #E3AD24;
+}
+
+.subline4{
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    left: 591px;
+    top: 1655.11px;
+    z-index: 2;
+    
+    border: 1px solid #E3AD24;
+}
+
+.subline5{
+    position: absolute;
+    width: 100px;
+    height: 0px;
+    left: 970px;
+    top: 1655.11px;
+    z-index: 2;
+    
+    border: 1px solid #E3AD24;
+}
+
+.servicesText{
+    font-family: RobotoLight;
+    font-size: 18px;
+    line-height: 100.4%;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.03em;
+
+    color: #F2F2F2;
+}
+
+.services1{
+    position: absolute;
+    width: 360px;
+    height: 35.9px;
+    left: 80px;
+    top: 1687.02px;
+    z-index: 2;
+}
+
+.services2{
+    position: absolute;
+    width: 360px;
+    height: 37.89px;
+    left: 460px;
+    top: 1686.02px;
+    z-index: 2;
+}
+
+.services3{
+    position: absolute;
+    width: 360px;
+    height: 56.84px;
+    left: 840px;
+    top: 1681.04px;   
+    z-index: 2; 
+}
+
+.tractorImg{
+    position: absolute;
+    left: 0px;
+    top: 1775px;
+    width: 297.6px;
+    height: 197px;
+    z-index: 2;
+}
+
+.projects{
+
+}
+
+.ourProjects{
+    
 }
