@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+#site{
+    max-width: 1000px;
+    margin: auto;
+}
+
+body{
+    background-color: #17181D;
+}
