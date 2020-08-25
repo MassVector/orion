@@ -572,9 +572,55 @@
 }
 
 .projects{
+    position: absolute;
+    width: 473px;
+    height: 78px;
+    left: 728px;
+    top: 2002px;
 
+    font-family: RussoReg;
+    font-size: 100px;
+
+    display: flex;
+    align-items: center;
+    text-align: right;
+
+    color: rgba(255, 255, 255, 0.2);
 }
 
 .ourProjects{
+    position: absolute;
+    width: 681px;
+    height: 30px;
+    left: 499px;
+    top: 2057px;
     
+    font-family: MontSemiBold;
+    font-size: 48px;
+    
+    display: flex;
+    align-items: center;
+    text-align: right;
+    letter-spacing: 0.03em;
+    
+    color: #FFFFFF;
+}
+
+.orion{
+    position: absolute;
+    width: 570px;
+    height: 120.84px;
+    left: 1072.84px;
+    top: 2162px;
+}
+
+.rectangle6{
+    position: absolute;
+    width: 629px;
+    height: 570px;
+    left: 1px;
+    top: 2162px;
+    z-index: 1;
+
+    background: #1F2B36;
 }
