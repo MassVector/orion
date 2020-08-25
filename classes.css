@@ -133,21 +133,6 @@
     color: #F2F2F2;
 }
 
-.first{
-    position: absolute;
-    width: 740px;
-    height: 78px;
-    left: 113px;
-    top: 1172px;
-
-    font-family: RussoReg;
-    font-size: 100px;
-
-    display: flex;
-    align-items: center;
-
-    color: rgba(255, 255, 255, 0.2);
-}
 .subtitle{
     position: absolute;
     width: 360px;
@@ -246,4 +231,160 @@
     height: 35px;
     left: 80px;
     top: 662px;
+}
+
+.clock2Icon{
+    position: absolute;
+    width: 70px;
+    height: 72.64px;
+    left: 177px;
+    top: 832px;
+}
+
+.armsIcon{
+    position: absolute;
+    width: 84.2px;
+    height: 58.12px;
+    left: 457px;
+    top: 846.53px;
+}
+
+.techIcon{
+    position: absolute;
+    width: 98.9px;
+    height: 50.03px;
+    left: 734px;
+    top: 854.83px;
+}
+
+.objectsIcon{
+    position: absolute;
+    width: 75px;
+    height: 66.18px;
+    left: 1031px;
+    top: 838.25px;
+}
+
+.iconTitle{
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.reliability{
+    position: absolute;
+    width: 159px;
+    height: 24.91px;
+    left: 133px;
+    top: 921.25px;
+    }
+
+.partners{
+    position: absolute;
+    width: 131px;
+    height: 24.91px;
+    left: 433px;
+    top: 921.25px;
+}
+
+.technics{
+    position: absolute;
+    width: 105px;
+    height: 24.91px;
+    left: 731px;
+    top: 921.25px;
+    
+}
+
+.objects{
+    position: absolute;
+    width: 114px;
+    height: 24.91px;
+    left: 1011px;
+    top: 921.25px;
+}
+
+.iconText{
+    font-family: RobotoLight;
+    font-size: 18px;
+    line-height: 107.4%;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: 0.02em;
+
+    color: #FFFFFF;
+}
+
+.iconText1{
+    position: absolute;
+    width: 265px;
+    height: 79.91px;
+    left: 80px;
+    top: 971.15px;
+}
+
+.iconText2{
+    position: absolute;
+    width: 265px;
+    height: 79.91px;
+    left: 365px;
+    top: 971.15px;
+}
+
+.iconText3{
+    position: absolute;
+    width: 265px;
+    height: 78.87px;
+    left: 650px;
+    top: 971.15px;
+    
+}
+
+.iconText4{
+    position: absolute;
+    width: 265px;
+    height: 74.72px;
+    left: 935px;
+    top: 971.15px;
+}
+
+.ourServices{
+    position: absolute;
+    width: 360px;
+    height: 30px;
+    left: 80px;
+    top: 1227px;
+
+    font-family: MontSemiBold;
+    font-size: 48px;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.ourServicesBack{
+    position: absolute;
+    width: 740px;
+    height: 78px;
+    left: 113px;
+    top: 1172px;
+
+    font-family: RussoReg;
+    font-size: 100px;
+
+    display: flex;
+    align-items: center;
+
+    color: rgba(255, 255, 255, 0.2);
 }
