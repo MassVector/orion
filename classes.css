@@ -624,3 +624,258 @@
 
     background: #1F2B36;
 }
+
+.groundContacts{
+    position: absolute;
+    width: 359.72px;
+    height: 30px;
+    left: 80.94px;
+    top: 2887px;
+    
+    font-family: MontSemiBold;    
+    font-size: 48px;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    
+    color: #FFFFFF;
+}
+
+.groundContactsBack{
+    position: absolute;
+    width: 739.42px;
+    height: 78px;
+    left: 100.92px;
+    top: 2832px;
+    
+    font-family: RussoReg;
+    font-size: 100px;
+    
+    display: flex;
+    align-items: center;
+    
+    color: rgba(255, 255, 255, 0.2);
+}
+
+.rectangle7{
+    position: absolute;
+    width: 207.84px;
+    height: 570px;
+    left: 1072.16px;
+    top: 2832px;
+    z-index: 1;
+
+    background: #E3AD24;
+}
+
+.map{
+    position: absolute;
+    width: 570px;
+    height: 365px;
+    left: 630px;
+    top: 2995px;
+    z-index: 2;
+}
+
+.groundAdress{
+    position: absolute;
+    width: 264.79px;
+    height: 25px;
+    left: 80.94px;
+    top: 2995px;
+
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.groundWorkHours{
+    position: absolute;
+    width: 264.79px;
+    height: 25px;
+    left: 365.71px;
+    top: 2995px;
+    
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+    
+    display: flex;
+    align-items: center;
+    
+    color: #FFFFFF;
+}
+
+.adressText{
+    position: absolute;
+    width: 264.79px;
+    height: 41px;
+    left: 81.94px;
+    top: 3034px;
+
+    font-family: RobotoReg;
+    font-size: 20px;
+    line-height: 115.4%;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.workHoursText{
+    position: absolute;
+    width: 264.79px;
+    height: 20px;
+    left: 365.71px;
+    top: 3034px;
+
+    font-family: RobotoReg;
+    font-size: 20px;
+    line-height: 107.4%;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.phone{
+    position: absolute;
+    width: 264.79px;
+    height: 25px;
+    left: 80.94px;
+    top: 3115px;
+
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.number{
+    position: absolute;
+    width: 264.79px;
+    height: 20px;
+    left: 80.94px;
+    top: 3155px;
+
+    font-family: RobotoReg;
+    font-size: 20px;
+    line-height: 107.4%;
+
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+
+    color: #FFFFFF;
+}
+
+.mail{
+    position: absolute;
+    width: 264.79px;
+    height: 25px;
+    left: 80.94px;
+    top: 3215px;
+
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+
+    display: flex;
+    align-items: center;
+
+    color: #FFFFFF;
+}
+
+.e-mail{
+    position: absolute;
+    width: 264.79px;
+    height: 20px;
+    left: 80.94px;
+    top: 3255px;
+    
+    font-family: RobotoReg;
+    font-size: 20px;
+    line-height: 107.4%;
+    
+    display: flex;
+    align-items: center;
+    letter-spacing: 0.03em;
+    
+    color: #FFFFFF;
+}
+
+.subline6{
+    position: absolute;
+    width: 99.92px;
+    height: 0px;
+    left: 83.94px;
+    top: 3315px;
+
+    border: 1px solid #E3AD24;
+}
+
+.groundInstIcon{
+    position: absolute;
+    width: 34.97px;
+    left: 83.94px;
+    top: 3325px;
+}
+
+.groundInst{
+    position: absolute;
+    width: 189.85px;
+    height: 20px;
+    left: 126.9px;
+    top: 3331px;
+    
+    font-family: RobotoReg;
+    font-size: 20px;
+    line-height: 100.4%;
+    
+    display: flex;
+    align-items: center;
+    text-align: center;
+    
+    color: #FFFFFF;
+}
+
+.rectangle8{
+    position: absolute;
+    width: 1280px;
+    height: 80px;
+    left: 0px;
+    top: 3452px;
+
+    background: #1F2B36;
+}
+
+.footer{
+    position: absolute;
+    width: 211px;
+    height: 18px;
+    left: 526px;
+    top: 3483px;
+
+    font-family: MontMed;
+    font-size: 18px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    color: #FFFFFF;
+}
