@@ -1,0 +1,58 @@
+.canvas{
+    width: 1120px;
+    height: 3000px;
+    margin: 0 auto;
+}
+
+.wrapper{
+    height: 60px;
+    padding-top: 29px;
+    display: flex;
+    text-decoration: none;
+    justify-content: space-between;
+}
+
+.menu{
+    width: 600px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu li a{
+    font-family: MontMed;
+    font-size: 18px;
+    line-height: 22px;
+    letter-spacing: 0.01em;
+    text-decoration: none;
+    color: #F2F2F2;
+    list-style-type: none;
+}
+
+.titleSubtitle{
+    padding-top: 106.5px;
+    width: 360px;
+    height: 341px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.title{
+    font-family: RussoReg;
+    font-size: 52px;
+    color: #F2F2F2;
+}
+
+.subline1{
+    width: 140px;
+    height: 0px;
+    border: 1px solid #E3AD24;
+}
+
+.subtitle{
+    font-family: RobotoLight;
+    font-size: 22px;
+    line-height: 120%;
+    color: rgba(255, 255, 255, 0.86);
+}
+
