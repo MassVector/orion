@@ -1,3 +1,9 @@
+.canvas{
+    width: 1120px;
+    height: 3000px;
+    margin: 0 auto;
+}
+
 .logo{
     position: absolute;
     width: 95px;
@@ -18,6 +24,7 @@
     align-items: center;
     letter-spacing: 0.01em;
     z-index: 3;
+    text-decoration: none;
 
     color: #F2F2F2;
 }
@@ -43,19 +50,9 @@
 .callBack{
     position: absolute;
     width: 158px;
-    left: 1025px;
+    left: 1026x;
 }
 
-.button{
-    position: absolute;
-    width: 189px;
-    height: 40px;
-    left: 1011px;
-    top: 19px;
-    z-index: 2;
-
-    background: rgba(225, 225, 225, 0.15);
-}
 
 .rectangle1{
     position: absolute;

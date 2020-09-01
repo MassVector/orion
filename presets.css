@@ -4,11 +4,14 @@
     border: 0;
 }
 
-#site{
-    max-width: 1000px;
-    margin: auto;
-}
-
 body{
     background-color: #17181D;
+}
+
+a{
+    outline: none;
+}
+
+ul{
+    list-style-type: none;
 }
