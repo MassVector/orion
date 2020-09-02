@@ -2,31 +2,9 @@
     
     
 
-    <!-- адрес, часы работы -->
+    
 
-    <div>
-      <p class="topAdress">г. Чебоксары, Школьный проезд, д.1</p>
-      <div class="pinIcon">
-        <img src="../images/location.png" />
-      </div>
-    </div>
-
-    <div>
-      <p class="topWorkHours">ПН-ПТ &emsp;7:00 - 18:00</p>
-      <div class="clockIcon">
-        <img src="../images/clock.png" />
-      </div>
-    </div>
-
-    <!-- инста -->
-
-    <div> 
-      <p class="topInst">@sergeya_gerasimov</p>
-      <div class="subline2"></div>
-      <div class="instIcon">
-        <img src="../images/inst.png" />
-      </div>
-    </div>
+    
 
     <!-- иконки и текст -->
 
