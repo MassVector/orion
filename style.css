@@ -22,9 +22,11 @@
     font-size: 18px;
     line-height: 22px;
     letter-spacing: 0.01em;
-    text-decoration: none;
     color: #F2F2F2;
-    list-style-type: none;
+}
+
+.menu a:hover{
+    color: #E3AD24;
 }
 
 .firstPage{
@@ -32,6 +34,7 @@
     height: 712px;
     margin: 0 auto;
     position: relative;
+    margin-bottom: 30px;
 }
 
 .titleSubtitle{
@@ -67,7 +70,7 @@
     z-index: 2;
     position: absolute;
     top: 82px;
-    right: -16px;
+    right: 0;
 }
 
 .rectangle1{
@@ -168,7 +171,6 @@
     font-family: RobotoReg;
     font-size: 20px;
     line-height: 100.4%;
-
     color: #FFFFFF;
 }
 
@@ -181,4 +183,40 @@
     width: 120px;
     height: 0px;
     border: 1px solid #E3AD24;
+}
+
+.secondPage{
+    width: 1120px;
+    margin: 0 auto;
+    position: relative;
+    display: flex;
+    padding: 67.5px 0 67.5px;
+    align-items: baseline;
+    justify-content: space-between;
+}
+
+.secondPage h1{
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+    color: #FFFFFF;
+    margin-top: 16.6px;
+}
+
+.secondPage p{
+    font-family: RobotoLight;
+    font-size: 18px;
+    line-height: 107.4%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+    margin-top: 25px;
+}
+
+.block{
+    width: 265px;
+    height: 220px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    text-align: center; 
 }

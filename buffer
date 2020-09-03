@@ -6,48 +6,7 @@
 
     
 
-    <!-- иконки и текст -->
-
-    <div>
-      <div class="clock2Icon">
-        <img src="../images/clocks.png" />
-      </div>
-      <div class="armsIcon">
-        <img src="../images/arms.png" />
-      </div>
-      <div class="techIcon">
-        <img src="../images/tech.png" />
-      </div>
-      <div class="objectsIcon">
-        <img src="../images/objects.png" />
-      </div>
-    </div>
-
-    <div class="iconTitle">
-      <p class="reliability">Надежность</p>
-      <p class="partners">Партнеры</p>
-      <p class="technics">Техника</p>
-      <p class="objects">Объекты</p>
-    </div>
-
-    <dix class="iconText">
-      <p class="iconText1">
-        Компания успешно работает в сфере строительства и оказания услуг
-        специальной техникой с 2006 года
-      </p>
-      <p class="iconText2">
-        Широкий круг партнеров предоставляет возможность гибкого выбора
-        поставляемых материалов
-      </p>
-      <p class="iconText3">
-        Одним из преимуществ является наличие малочисленной и востребованной
-        техники
-      </p>
-      <p class="iconText4">
-        В нашем портфолио имеется множество жилых, инфраструктурных и
-        производственных объектов
-      </p>
-    </dix>
+   
 
     <!-- услуги -->
 
