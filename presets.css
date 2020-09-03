@@ -21,3 +21,24 @@ ul{
 a:hover{
     color: #E3AD24;
 }
+
+section{
+    width: 1120px;
+    margin: 0 auto;
+}
+
+h1{
+    font-family: MontSemiBold;
+    font-size: 24px;
+    line-height: 100.4%;
+    color: #FFFFFF;
+    margin-top: 16.6px;
+}
+
+p{
+    font-family: RobotoLight;
+    font-size: 18px;
+    line-height: 107.4%;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
